@@ -1,0 +1,605 @@
+- name: YourStory
+  url: https://yourstory.com
+  category: startups
+  feed_url: https://yourstory.com//feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Inc42
+  url: https://inc42.com
+  category: startups
+  feed_url: https://inc42.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Entrackr
+  url: https://entrackr.com
+  category: startups
+  feed_url: https://entrackr.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Economic Times - Startups
+  url: https://economictimes.indiatimes.com
+  category: startups
+  feed_url: https://cfo.economictimes.indiatimes.com/rss/topstories
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Business Standard
+  url: https://www.business-standard.com
+  category: finance
+  feed_url: https://www.business-standard.com/rss/latest.rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Moneycontrol
+  url: https://www.moneycontrol.com
+  category: finance
+  feed_url: https://www.moneycontrol.com/rss/latestnews.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: LiveMint
+  url: https://www.livemint.com
+  category: finance
+  feed_url: https://www.livemint.com/rss/companies
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: firstpost - business
+  url: https://www.firstpost.com
+  category: startups
+  feed_url: hhttps://www.firstpost.com/commonfeeds/v1/mfp/rss/business.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: firstpost - tech
+  url: https://www.firstpost.com
+  category: startups
+  feed_url: https://www.firstpost.com/commonfeeds/v1/mfp/rss/tech.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Startup India Magazine
+  url: https://startupindiamagazine.com
+  category: startups
+  feed_url: https://startupindiamagazine.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: FeedMyStartup
+  url: https://feedmystartup.com
+  category: startups
+  feed_url: https://feedmystartup.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Startup Reporter
+  url: https://startupreporter.in
+  category: startups
+  feed_url: https://startupreporter.in/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Startup Gig
+  url: https://thestartupgig.com
+  category: startups
+  feed_url: https://thestartupgig.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Business Outreach
+  url: https://businessoutreach.in
+  category: startups
+  feed_url: https://businessoutreach.in/startup/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Startup Indian
+  url: https://startupindian.com
+  category: startups
+  feed_url: https://startupindian.com/blog-feed.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Startup Journal
+  url: https://thestartupjournal.com
+  category: startups
+  feed_url: https://thestartupjournal.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: TechnoVans
+  url: https://technovans.com
+  category: startups
+  feed_url: https://technovans.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: StartupsIndia
+  url: https://startupsindia.in
+  category: startups
+  feed_url: https://startupsindia.in/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: NettyFeed
+  url: https://nettyfeed.com
+  category: startups
+  feed_url: https://nettyfeed.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Wall Street Journal - tech
+  url: https://feeds.content.dowjones.io/public/rss/RSSWSJD
+  category: finance, tech
+  feed_url: https://feeds.content.dowjones.io/public/rss/RSSWSJD
+  rss: true
+  login_required: true
+  paywall: true
+  scrape_method: rss
+
+- name: The Wall Street Journal - finance
+  url: https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+  category: finance, tech
+  feed_url: https://feeds.content.dowjones.io/public/rss/RSSMarketsMain
+  rss: true
+  login_required: true
+  paywall: true
+  scrape_method: rss
+
+- name: The Wall Street Journal - US Business
+  url: https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+  category: finance, tech
+  feed_url: https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness
+  rss: true
+  login_required: true
+  paywall: true
+  scrape_method: rss
+
+- name: Analytics India Magazine
+  url: https://analyticsindiamag.com
+  category: tech
+  feed_url: https://analyticsindiamag.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: DealStreetAsia
+  url: https://www.dealstreetasia.com
+  category: startups, finance
+  feed_url: https://www.dealstreetasia.com/feed
+  rss: true
+  login_required: false
+  paywall: true
+  scrape_method: rss
+
+- name: Finshots
+  url: https://finshots.in
+  category: finance
+  feed_url: https://finshots.in/rss/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Finextra Research
+  url: https://www.finextra.com
+  category: finance
+  feed_url: https://www.finextra.com/rss/rss.aspx
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: TechCrunch
+  url: https://techcrunch.com
+  category: startups, tech
+  feed_url: https://techcrunch.com/feed/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+
+- name: Crunchbase News
+  url: https://news.crunchbase.com
+  category: startups, finance
+  feed_url: https://news.crunchbase.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: WIRED – Business
+  url: https://www.wired.com
+  category: tech
+  feed_url: https://www.wired.com/feed/category/business/latest/rss
+  rss: true
+  login_required: false
+  paywall: partial
+  scrape_method: rss
+
+- name: Reuters Technology
+  url: https://www.reuters.com/technology
+  category: tech
+  feed_url: http://feeds.reuters.com/reuters/technologyNews
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: CNBC Asia News
+  url: https://www.cnbc.com/world/?region=asia
+  category: finance
+  feed_url: https://www.cnbc.com/id/19832390/device/rss/rss.html
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Sifted (FT)
+  url: https://sifted.eu
+  category: startups
+  feed_url: https://sifted.eu/feed
+  rss: true
+  login_required: false
+  paywall: partial
+  scrape_method: rss
+
+
+- name: VentureBeat
+  url: https://venturebeat.com
+  category: startups, tech
+  feed_url: https://venturebeat.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Verge
+  url: https://theverge.com
+  category: tech
+  feed_url: https://theverge.com/rss/index.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Hacker News
+  url: https://news.ycombinator.com
+  category: startups, tech
+  feed_url: https://hackernewsrss.com/feed.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: EU-Startups
+  url: https://eu-startups.com
+  category: startups
+  feed_url: https://eu-startups.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Next Web
+  url: https://thenextweb.com
+  category: startups, tech
+  feed_url: https://thenextweb.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Tech in Asia
+  url: https://techinasia.com
+  category: startups, tech
+  feed_url: https://techinasia.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Startup News Asia
+  url: https://startupnewsasia.com
+  category: startups, tech
+  feed_url: https://startupnewsasia.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Vulcan Post
+  url: https://vulcanpost.com
+  category: startups, tech
+  feed_url: https://vulcanpost.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Bloomberg Technology
+  url: https://bloomberg.com/technology
+  category: tech, finance
+  feed_url: none
+  rss: false
+  login_required: true
+  paywall: true
+  scrape_method: api_search
+
+- name: Reuters Business
+  url: https://reuters.com/business
+  category: finance
+  feed_url: https://reuters.com/business/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Fintech Times
+  url: https://thefintechtimes.com
+  category: finance, tech
+  feed_url: https://thefintechtimes.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: FinTech Futures
+  url: https://fintechfutures.com
+  category: finance, tech
+  feed_url: https://fintechfutures.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: FinTech Global
+  url: https://fintech.global
+  category: finance, tech
+  feed_url: https://fintech.global/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Payments Journal
+  url: https://paymentsjournal.com
+  category: fintech
+  feed_url: https://paymentsjournal.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+
+- name: Business Insider
+  url: https://businessinsider.com
+  category: tech, finance
+  feed_url: https://feeds.businessinsider.com/custom/all
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Axios
+  url: https://axios.com
+  category: tech
+  feed_url: https://axios.com/feeds/all.rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Yahoo Finance
+  url: https://finance.yahoo.com
+  category: finance
+  feed_url: https://finance.yahoo.com/rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: MarketWatch
+  url: https://marketwatch.com
+  category: finance
+  feed_url: https://marketwatch.com/rss/topstories
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Gadgets 360
+  url: https://gadgets360.com
+  category: tech
+  feed_url: https://gadgets360.com/rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Arc
+  url: https://www.thearcweb.com
+  category: tech, startups
+  feed_url: https://www.thearcweb.com/rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: cnbc - business
+  url: https://www.cnbctv18.com/
+  category: tech, startups
+  feed_url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: cnbc - tech
+  url: https://www.cnbctv18.com/
+  category: tech, startups
+  feed_url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: cnbc - finance
+  url: https://www.cnbctv18.com/
+  category: tech, startups
+  feed_url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Indian Startup News Magazine
+  url: https://indianstartupnews.com
+  category: tech, startups
+  feed_url: https://indianstartupnews.com/rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Wired - Tech
+  url: https://wired.com
+  category: tech, startups
+  feed_url: https://www.wired.com/feed/tag/ai/latest/rss
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: NPR
+  url: https://www.npr.org
+  category: tech, startups
+  feed_url: https://feeds.npr.org/1019/rss.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: HBR
+  url: https://hbr.org
+  category: tech, startups
+  feed_url: http://feeds.harvardbusiness.org/harvardbusiness?format=xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Gizmodo
+  url: https://gizmodo.com
+  category: tech, startups
+  feed_url: https://gizmodo.com/feed
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: CNET
+  url: https://www.cnet.com
+  category: tech, startups
+  feed_url: https://www.cnet.com/rss/news/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Inc
+  url: https://www.inc.com
+  category: tech, startups
+  feed_url: https://www.inc.com/rss/
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: The Entrepreneur
+  url: https://www.entrepreneur.com
+  category: tech, startups
+  feed_url: https://www.entrepreneur.com/rss-feed/latest
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: New York Times - Tech
+  url: https://www.nytimes.com
+  category: tech, startups
+  feed_url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: New York Times - Personal Tech
+  url: https://www.nytimes.com
+  category: tech, startups
+  feed_url: https://rss.nytimes.com/services/xml/rss/nyt/PersonalTech.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: New York Times - Business
+  url: https://www.nytimes.com
+  category: tech, startups
+  feed_url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss
+
+- name: Fox News - Tech
+  url: https://www.foxnews.com
+  category: tech, startups
+  feed_url: https://moxie.foxnews.com/google-publisher/tech.xml
+  rss: true
+  login_required: false
+  paywall: false
+  scrape_method: rss

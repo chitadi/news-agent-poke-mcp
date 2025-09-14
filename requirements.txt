@@ -1,0 +1,20 @@
+# ── Core scraping & parsing ────────────────────────────────
+beautifulsoup4
+feedparser
+trafilatura               # optional full-text extractor
+playwright>=1.37.0        # HTML fallback
+
+# ── Data / DB ───────────────────────────────────────────────
+sqlalchemy>=2.0
+python-dateutil
+pytz
+pytz-deprecation-shim     # only if you explicitly import it
+
+# ── Networking & retries ───────────────────────────────────
+requests
+backoff
+lxml_html_clean
+
+# ── Utility ────────────────────────────────────────────────
+python-dotenv
+PyYAML
