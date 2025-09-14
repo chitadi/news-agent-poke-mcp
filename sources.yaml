@@ -884,15 +884,6 @@
   paywall: false
   scrape_method: rss
 
-- name: Fossbytes
-  url: https://fossbytes.com
-  category: tech, india
-  feed_url: https://fossbytes.com/feed
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
-
 - name: TechGenYZ
   url: https://techgenyz.com
   category: tech, startups, india
