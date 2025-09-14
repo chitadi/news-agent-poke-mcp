@@ -30,7 +30,7 @@ steps:
     args:
       - '-c'
       - |
-        if [ "$_TRIGGER_TYPE" != "harvest" ]; then
+        if [ "$_TRIGGER_TYPE" != "harvest-poke" ]; then
           echo "⏭️ Skipping harvest"; exit 0
         fi
         apt-get update -y && apt-get install -y git-lfs
