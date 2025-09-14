@@ -77,7 +77,7 @@ steps:
         git push push-tmp data
 
         echo "✅ Harvest + housekeeping complete!"
-    secretEnv: ['_GITHUB_TOKEN', '_GITHUB_REPO']
+    secretEnv: ['_GITHUB_TOKEN', '_GITHUB_REPO', 'YOUTUBE_API_KEY']
 
 availableSecrets:
   secretManager:
