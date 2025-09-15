@@ -56,7 +56,7 @@ def should_categorize(source_category: str) -> bool:
         return True
     
     # If it's already one of our 6 main buckets
-    if sc in ["tech", "startups", "business", "politics", "finance", "miscellaneous"]:
+    if sc in ["tech", "startups", "business", "politics", "finance"]:
         return False
     
     # If vague
