@@ -10,6 +10,7 @@ class Article(Base):
     source_name  = Column(Text, nullable=False)
     url          = Column(Text, unique=True, nullable=False)
     title        = Column(Text, nullable=False)
+    category     = Column(Text)  # New field for category
     published_at = Column(DateTime, nullable=False)
     fetched_at   = Column(DateTime, nullable=False)
 
