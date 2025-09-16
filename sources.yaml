@@ -695,50 +695,50 @@
   paywall: true
   scrape_method: rss
 
-- name: Times of India
-  url: https://timesofindia.indiatimes.com
-  category: miscellaneous
-  feed_url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: Times of India
+#   url: https://timesofindia.indiatimes.com
+#   category: miscellaneous
+#   feed_url: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
-- name: The Hindu
-  url: https://www.thehindu.com
-  category: miscellaneous
-  feed_url: https://www.thehindu.com/feeder/default.rss
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: The Hindu
+#   url: https://www.thehindu.com
+#   category: miscellaneous
+#   feed_url: https://www.thehindu.com/feeder/default.rss
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
-- name: Hindustan Times
-  url: https://www.hindustantimes.com
-  category: miscellaneous
-  feed_url: https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: Hindustan Times
+#   url: https://www.hindustantimes.com
+#   category: miscellaneous
+#   feed_url: https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
-- name: Indian Express
-  url: https://indianexpress.com
-  category: miscellaneous
-  feed_url: https://indianexpress.com/feed/
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: Indian Express
+#   url: https://indianexpress.com
+#   category: miscellaneous
+#   feed_url: https://indianexpress.com/feed/
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
-- name: NDTV
-  url: https://www.ndtv.com
-  category: miscellaneous
-  feed_url: https://feeds.feedburner.com/ndtvnews-latest
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: NDTV
+#   url: https://www.ndtv.com
+#   category: miscellaneous
+#   feed_url: https://feeds.feedburner.com/ndtvnews-latest
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
 - name: India Today
   url: https://www.indiatoday.in
@@ -767,14 +767,14 @@
   paywall: false
   scrape_method: rss
 
-- name: Deccan Chronicle
-  url: https://www.deccanchronicle.com
-  category: miscellaneous
-  feed_url: https://www.deccanchronicle.com/rss_feed/
-  rss: true
-  login_required: false
-  paywall: false
-  scrape_method: rss
+# - name: Deccan Chronicle
+#   url: https://www.deccanchronicle.com
+#   category: miscellaneous
+#   feed_url: https://www.deccanchronicle.com/rss_feed/
+#   rss: true
+#   login_required: false
+#   paywall: false
+#   scrape_method: rss
 
 - name: Zee News
   url: https://zeenews.india.com
