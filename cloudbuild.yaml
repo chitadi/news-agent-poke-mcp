@@ -89,7 +89,7 @@ availableSecrets:
       env: 'YOUTUBE_API_KEY'
 
 options:
-  machineType: 'E2_HIGHCPU_8'
+  # machineType: 'E2_HIGHCPU_8'
   diskSizeGb: 100
   logging: CLOUD_LOGGING_ONLY
   volumes:
